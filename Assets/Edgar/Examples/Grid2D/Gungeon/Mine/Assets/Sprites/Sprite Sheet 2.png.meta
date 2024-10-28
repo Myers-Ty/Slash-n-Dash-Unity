@@ -1,0 +1,1688 @@
+fileFormatVersion: 2
+guid: 88e1d0e4361b3a24088a1376ee42ed56
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player 2_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 416
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2b8cedb5b009f4a91e0cbb312ab01d
+      internalID: 416330057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 2_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 416
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0936e5ff81a1b04fb0d690053ade639
+      internalID: -668056661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 2_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 416
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215844d4ae7c79c42be68995e083f5a3
+      internalID: -1853019900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 2_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 416
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b3a60cf582c2741bf309df1a4f780c
+      internalID: -1160472723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 2_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 416
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8389fc6aeae720d48b43a632ca18d7a5
+      internalID: 533010210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 2_5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 416
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2248e31536bc949bf5d0a4775acd9f
+      internalID: 1521588832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 2_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 416
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c914b52132247545a7a843ef7f3aed7
+      internalID: -161752735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 2_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 416
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109f34d0d005f6248990c2fdd0c8969b
+      internalID: -121994699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 2_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 416
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fa917a4507f5645b3bc89bbcb2e906
+      internalID: 468003743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 1_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 384
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c64347fee00d24089ce2ff0ba7fd3e
+      internalID: -1410875208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 1_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 384
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f9c4bdd3756fc45870f504f6609dce
+      internalID: -1321043540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 1_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 384
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0726b94b86d1a4ba90afe2de4fc6f5
+      internalID: 2119096067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 1_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 384
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d25751d09b264448938c95b0c95e1d
+      internalID: -82706042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 1_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 384
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fea31aed7b12b4f9ca7a4f829fef2e
+      internalID: 1871488032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 1_5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 384
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77242073fa86a334b962328ed6b58e82
+      internalID: -1763334418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 1_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 384
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad18c8cebe71754b8dd8f3700943665
+      internalID: 76883165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 1_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 384
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4ecf9fe844ec04baeeacb9770a57d0
+      internalID: 1119506284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player 1_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 384
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c949ce45827080e4f9469336480db0ab
+      internalID: -157430165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rusty Sword
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 465
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae0cb198bb65c44486956d04de58875
+      internalID: -1908946606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 465
+        width: 12
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4771637, y: 0.46653062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a0b690e14dafb4fa96b6eeadf0687e
+      internalID: 981945851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End Sword
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 401
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caade456a79afa54a9526f94bd361974
+      internalID: 12079455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long Sword
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 401
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef23fe3d989c53d4b9b02f8a533037e5
+      internalID: -1067463315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_0
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 416
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ce8b11e5b926941b695c1589e7cd75
+      internalID: -1185832114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 416
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbe620bae6e84d4e91193979416c189
+      internalID: 817890221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 416
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc75dd5e42fb764981c6104bc970b46
+      internalID: 1397577241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 416
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432845c4a2b97cb43ad195110224570f
+      internalID: -1253877455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 416
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817cad9c688130d41b22b2e21820cb54
+      internalID: -516739798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_5
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 416
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9f58d4b56667e4f97e0d15c87b1084
+      internalID: 1770217867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_6
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 416
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0bddebb5e5099468514cac1efb539d
+      internalID: 878815484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_7
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 416
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c429c11f80b4c4a439e11608561b2ab5
+      internalID: 699376403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin 1_0
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 288
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52691ded3ecd5449b365412abecb9a2
+      internalID: 1658543193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin 1_1
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 288
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d457f9ee6d8144e92dcc70e80c7d5a
+      internalID: 153132854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin 1_2
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 288
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba081fd020dc184489d6e77e169056be
+      internalID: 686311676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin 1_3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 288
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6f8201a6fb9aa43993af450286108c
+      internalID: 835389370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin 1_4
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 288
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa45605b792e6174a9196452f71c1bc8
+      internalID: 436749904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin 1_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 288
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafd22b1dad74424ba2c54cc0e648cea
+      internalID: 344020708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin 1_6
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 288
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade82d556436f1d4781f43797ef9bb8c
+      internalID: 678080896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin 1_7
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 288
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f9a1b6a86065c45887d529dddc6b80
+      internalID: -610116657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear Goblin
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 305
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7665ea6ad36a97e4d99a2db95125f63a
+      internalID: 403753378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8157239ed63c24cbbe8b8e1ad8c174
+      internalID: -1495616219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25daf238b9067484cab5e83a86d3d16f
+      internalID: -1647399819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38019bca8cc1dc440bfe62df957b894b
+      internalID: 2108645422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac41f26166cb39642bd19becd29a1606
+      internalID: 22415875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e54778f55ba42d468fbb49169bf5ca1
+      internalID: -1547115944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c33cd2da79fa7449f687b5c50bcea2
+      internalID: -328525243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77be3b3abdb29f841a3c994757534a02
+      internalID: -2015263736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051f72d0eaa7e4b4c98ecfbbc405e932
+      internalID: 2078091966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 2_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7c89e81c68bbf4798819689b350d1a
+      internalID: -705795479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 2_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13a4e19baa75014a8e3424fa1253de5
+      internalID: 1115328432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 2_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8c9a9f7aa73b04a9aa4d3dd9aef143
+      internalID: -736937755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 2_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f46c103ac08e64caf361b6d0044418
+      internalID: -124920728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 2_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e933d1698a42840884efb625bc23c9
+      internalID: 920758078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 2_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacce57a292ca054693c10120126eab5
+      internalID: 410895312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 2_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7f4d6383421b741bf281e1c15ddf27
+      internalID: 1624390099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 2_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fc0cab0606a394593c7e969088fbf9
+      internalID: -993193957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 232
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703b5a16a1e7fe64ab2bed52023e1e69
+      internalID: -484067285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sprite Sheet 2_314: 940781692
+      Sprite Sheet 2_287: -1731688027
+      Sprite Sheet 2_275: -1146242710
+      Sprite Sheet 2_136: 305247925
+      Sprite Sheet 2_240: -130215745
+      Sprite Sheet 2_143: -1763897453
+      Sprite Sheet 2_106: -66128405
+      Long Sword: -1067463315
+      Sprite Sheet 2_108: -56356437
+      Sprite Sheet 2_70: -666347004
+      Sprite Sheet 2_29: 742299234
+      Skeleton_3: -1766422977
+      Sprite Sheet 2_173: -706118300
+      Sprite Sheet 2_330: 1627260317
+      Boss 1_4: -1547115944
+      Sprite Sheet 2_154: -26980748
+      Sprite Sheet 2_85: 369667694
+      Player 2_6: -161752735
+      Sprite Sheet 2_327: 1159666728
+      Sprite Sheet 2_20: -1810267714
+      Sprite Sheet 2_221: -735292098
+      Sprite Sheet 2_199: -137359149
+      Sprite Sheet 2_169: 273510061
+      Sprite Sheet 2_260: 413759260
+      Sprite Sheet 2_298: 66911996
+      Sprite Sheet 2_316: -238032264
+      Sprite Sheet 2_273: 1755147703
+      Sprite Sheet 2_146: -1260683979
+      Sprite Sheet 2_229: 976583670
+      Sprite Sheet 2_204: -1716932458
+      Sprite Sheet 2_318: 285512437
+      Sprite Sheet 2_163: 680244434
+      Boss 2_2: -736937755
+      Sprite Sheet 2_222: 513650726
+      Sprite Sheet 2_102: -1667871300
+      Sprite Sheet 2_158: -955075896
+      Sprite Sheet 2_282: -1094629805
+      Sprite Sheet 2_98: -798489472
+      Sprite Sheet 2_186: 1984906001
+      Sprite Sheet 2_259: 1448765138
+      Sprite Sheet 2_309: 1925446155
+      Sprite Sheet 2_191: 1455388309
+      Sprite Sheet 2_203: 2071849841
+      Sprite Sheet 2_246: -1386745056
+      Sprite Sheet 2_33: 851885829
+      Sprite Sheet 2_159: 1269144273
+      Sprite Sheet 2_249: -1074013267
+      Sprite Sheet 2_86: 708250697
+      Sprite Sheet 2_337: -1321156725
+      Sprite Sheet 2_329: 1604309305
+      Sprite Sheet 2_224: 515996065
+      Sprite Sheet 2_135: 277265745
+      Player 1_4: 1871488032
+      Sprite Sheet 2_127: 77175530
+      Sprite Sheet 2_147: 2103012138
+      Sprite Sheet 2_294: 1828749378
+      Sprite Sheet 2_313: 1599143850
+      Sprite Sheet 2_245: 377324667
+      Sprite Sheet 2_192: -92274134
+      Sprite Sheet 2_241: -1756931310
+      Sprite Sheet 2_303: 2060254800
+      Sprite Sheet 2_170: -799986404
+      Sprite Sheet 2_256: 294588155
+      Sprite Sheet 2_74: 753775264
+      Sprite Sheet 2_301: -2099632138
+      Player 1_3: -82706042
+      Sprite Sheet 2_264: 449135753
+      Sprite Sheet 2_84: -752206662
+      Player 1_1: -1321043540
+      Sprite Sheet 2_254: -1219047412
+      Sprite Sheet 2_345: -217620349
+      Sprite Sheet 2_198: 673327715
+      Sprite Sheet 2_31: -2135206803
+      Sprite Sheet 2_207: -553272102
+      Sprite Sheet 2_278: 1482678830
+      Player 2_2: -1853019900
+      Sprite Sheet 2_295: 1864210533
+      Sprite Sheet 2_162: -373289350
+      Sprite Sheet 2_30: 2072825459
+      Goblin 1_4: 436749904
+      Sprite Sheet 2_205: 1503944520
+      Sprite Sheet 2_87: 163734250
+      Sprite Sheet 2_194: -925135784
+      Sprite Sheet 2_226: 192158622
+      Sprite Sheet 2_110: -238186526
+      Sprite Sheet 2_340: -619289191
+      Sprite Sheet 2_101: -1244476101
+      Boss 1_0: -1495616219
+      Sprite Sheet 2_45: -2069340652
+      Boss 1_3: 22415875
+      Sprite Sheet 2_82: -893741940
+      Sprite Sheet 2_196: -53348312
+      Sprite Sheet 2_22: 1865393040
+      Sprite Sheet 2_23: -498448068
+      Sprite Sheet 2_52: 1319666304
+      Sprite Sheet 2_116: 300504977
+      Sprite Sheet 2_43: 797727963
+      Sprite Sheet 2_132: 495563798
+      Sprite Sheet 2_164: 1501526373
+      Sprite Sheet 2_180: -1340335557
+      Player 1_7: 1119506284
+      Sprite Sheet 2_306: 1351170349
+      Boss 1_2: 2108645422
+      Sprite Sheet 2_24: -955891603
+      Sprite Sheet 2_119: -1314134685
+      Sprite Sheet 2_257: 507356036
+      Sprite Sheet 2_197: 1430966204
+      Sprite Sheet 2_208: 1550099776
+      Sprite Sheet 2_99: 1054432242
+      Player 1_8: -157430165
+      Goblin 1_2: 686311676
+      Sprite Sheet 2_242: -714422610
+      Sprite Sheet 2_250: 681495562
+      Sprite Sheet 2_209: -1359457025
+      Sprite Sheet 2_302: -579675480
+      Sprite Sheet 2_79: 1283632477
+      Sprite Sheet 2_344: -1581738930
+      Player 2_7: -121994699
+      Sprite Sheet 2_50: 1748966521
+      Boss 1_6: 1671675468
+      Sprite Sheet 2_277: 544517462
+      Sprite Sheet 2_341: -707213364
+      Sprite Sheet 2_237: -1049552021
+      Sprite Sheet 2_307: 766022672
+      Sprite Sheet 2_289: 1127920612
+      Sprite Sheet 2_44: 1846327118
+      Sprite Sheet 2_268: 814591486
+      Sprite Sheet 2_100: 1800993820
+      Sprite Sheet 2_156: 1954894087
+      Sprite Sheet 2_73: 701263557
+      Sprite Sheet 2_28: 534949140
+      Sprite Sheet 2_103: 341746781
+      Sprite Sheet 2_334: -496766086
+      Sprite Sheet 2_325: -1464042182
+      Sprite Sheet 2_252: -693678602
+      Sprite Sheet 2_214: 1287224068
+      Sprite Sheet 2_238: 619624171
+      Sprite Sheet 2_324: -2014744275
+      Boss 2_3: -124920728
+      Sprite Sheet 2_201: -1063653443
+      Sprite Sheet 2_218: 1469305240
+      Sprite Sheet 2_185: 1770191894
+      Sprite Sheet 2_133: 847928205
+      Sprite Sheet 2_228: -234506678
+      Sprite Sheet 2_195: -1971408380
+      Player 1_0: -1410875208
+      Sprite Sheet 2_193: -1186979664
+      Player 2_1: -668056661
+      Sprite Sheet 2_16: -748860758
+      Sprite Sheet 2_293: 1649687173
+      Sprite Sheet 2_322: -735685059
+      Boss 1_1: -1647399819
+      Sprite Sheet 2_315: 2086719030
+      Sprite Sheet 2_283: -1107367483
+      Sprite Sheet 2_72: -262616011
+      Sprite Sheet 2_179: 1912956471
+      Sprite Sheet 2_8: -715555770
+      Sprite Sheet 2_19: 1050115503
+      Sprite Sheet 2_105: 1304026935
+      Sprite Sheet 2_131: 480347736
+      Sprite Sheet 2_166: -1085913100
+      End Sword: 12079455
+      Sprite Sheet 2_184: 1475933994
+      Sprite Sheet 2_213: -1819955634
+      Sprite Sheet 2_311: -1314051294
+      Sprite Sheet 2_276: 2015260625
+      Sprite Sheet 2_59: 1580153412
+      Sprite Sheet 2_15: 1657928774
+      Skeleton_1: 817890221
+      Sprite Sheet 2_317: -1614605013
+      Sprite Sheet 2_32: 672687624
+      Sprite Sheet 2_255: 251468477
+      Sprite Sheet 2_55: -493904812
+      Sprite Sheet 2_262: 260782856
+      Sprite Sheet 2_83: -257934928
+      Sprite Sheet 2_178: -36353185
+      Sprite Sheet 2_118: -784376957
+      Sprite Sheet 2_54: -643463323
+      Sprite Sheet 2_251: -257638866
+      Goblin 1_5: 344020708
+      Boss 2_0: -705795479
+      Sprite Sheet 2_97: -2037229510
+      Sprite Sheet 2_172: 1497837829
+      Sword: 981945851
+      Sprite Sheet 2_217: 208213073
+      Sprite Sheet 2_308: 2090949017
+      Sprite Sheet 2_280: 206436864
+      Sprite Sheet 2_286: -659662913
+      Player 1_2: 2119096067
+      Sprite Sheet 2_17: 1214454708
+      Sprite Sheet 2_328: 644525773
+      Sprite Sheet 2_171: 1993774194
+      Sprite Sheet 2_149: -251963359
+      Sprite Sheet 2_128: 2129648885
+      Sprite Sheet 2_233: 1955705925
+      Skeleton_0: -1185832114
+      Sprite Sheet 2_58: -491434463
+      Sprite Sheet 2_26: 1331612974
+      Sprite Sheet 2_297: -1574005360
+      Sprite Sheet 2_40: 1640840181
+      Sprite Sheet 2_261: 1947909283
+      Sprite Sheet 2_320: 1928701610
+      Goblin 1_6: 678080896
+      Skeleton_2: 1397577241
+      Sprite Sheet 2_236: -633252890
+      Boss 2_5: 410895312
+      Sprite Sheet 2_155: 1638919483
+      Sprite Sheet 2_284: -157147141
+      Sprite Sheet 2_124: -1830742792
+      Sprite Sheet 2_258: -1027438566
+      Sprite Sheet 2_174: -1914388593
+      Sprite Sheet 2_125: 1754004117
+      Sprite Sheet 2_336: -1165402676
+      Sprite Sheet 2_77: -2128108362
+      Sprite Sheet 2_269: -756425387
+      Sprite Sheet 2_182: 1652096917
+      Sprite Sheet 2_161: 1469289729
+      Player 2_8: 468003743
+      Sprite Sheet 2_234: 1161180781
+      Sprite Sheet 2_134: -1192694167
+      Sprite Sheet 2_270: 125173682
+      Sprite Sheet 2_113: 35655334
+      Sprite Sheet 2_11: 125764760
+      Sprite Sheet 2_300: 288073141
+      Sprite Sheet 2_145: 9703723
+      Player 1_6: 76883165
+      Sprite Sheet 2_18: 667394704
+      Boss 2_4: 920758078
+      Sprite Sheet 2_335: -258785589
+      Sprite Sheet 2_272: 584844263
+      Sprite Sheet 2_35: -2037326930
+      Goblin 1_7: -610116657
+      Sprite Sheet 2_80: 536925738
+      Sprite Sheet 2_296: -1880916088
+      Sprite Sheet 2_152: -394940841
+      Sprite Sheet 2_188: -1259882027
+      Player 2_0: 416330057
+      Sprite Sheet 2_76: -569364272
+      Sprite Sheet 2_144: 1411145698
+      Sprite Sheet 2_190: 919730969
+      Sprite Sheet 2_202: -457494550
+      Sprite Sheet 2_12: 31856907
+      Sprite Sheet 2_42: 658933678
+      Sprite Sheet 2_48: -1816284009
+      Sprite Sheet 2_244: -1308563228
+      Sprite Sheet 2_10: 2110442684
+      Sprite Sheet 2_14: 811727181
+      Sprite Sheet 2_160: 1211737507
+      Skeleton_5: 1290928579
+      Spear Goblin: 403753378
+      Sprite Sheet 2_117: 586335750
+      Sprite Sheet 2_25: 1676951284
+      Sprite Sheet 2_231: -1896375851
+      Sprite Sheet 2_319: 188712604
+      Sprite Sheet 2_51: 270712270
+      Sprite Sheet 2_310: 1840153603
+      Boss 2_6: 1624390099
+      Sprite Sheet 2_176: -1680537484
+      Sprite Sheet 2_47: 979957553
+      Sprite Sheet 2_216: -535123652
+      Sprite Sheet 2_253: -1367172700
+      Sprite Sheet 2_333: -757504895
+      Sprite Sheet 2_141: -29468364
+      Sprite Sheet 2_206: -1376620675
+      Sprite Sheet 2_274: -1307160132
+      Sprite Sheet 2_81: -2100397315
+      Sprite Sheet 2_153: 345889235
+      Sprite Sheet 2_291: -1710611420
+      Sprite Sheet 2_46: 1134049299
+      Sprite Sheet 2_148: 1350234885
+      Sprite Sheet 2_69: 906276099
+      Sprite Sheet 2_123: 1944659327
+      Sprite Sheet 2_138: 1510625350
+      Goblin 1_1: 153132854
+      Sprite Sheet 2_167: -1468554808
+      Sprite Sheet 2_292: 1539061775
+      Sprite Sheet 2_223: 293710055
+      Sprite Sheet 2_230: -2090573303
+      Sprite Sheet 2_285: -1548301808
+      Sprite Sheet 2_13: -125009039
+      Sprite Sheet 2_312: -463549213
+      Player 1_5: -1763334418
+      Sprite Sheet 2_114: -740505162
+      Sprite Sheet 2_175: -388324361
+      Sprite Sheet 2_139: -1115366290
+      Sprite Sheet 2_109: 46882839
+      Boss 2_1: 1115328432
+      Sprite Sheet 2_219: -281005616
+      Sprite Sheet 2_49: 1837673014
+      Sprite Sheet 2_290: 209459309
+      Sprite Sheet 2_104: -173760202
+      Boss 1_7: 2078091966
+      Sprite Sheet 2_227: -832475834
+      Sprite Sheet 2_342: -1232090089
+      Sprite Sheet 2_34: 861536587
+      Boss 2_7: -993193957
+      Sprite Sheet 2_343: 1912583107
+      Goblin 1_0: 1658543193
+      Sprite Sheet 2_332: 1766820393
+      Skeleton_4: 1333829638
+      Sprite Sheet 2_200: 964332018
+      Sprite Sheet 2_210: -1826476319
+      Sprite Sheet 2_281: 1010004633
+      Rusty Sword: -1908946606
+      Sprite Sheet 2_279: 1809251238
+      Sprite Sheet 2_120: 1850489781
+      Sprite Sheet 2_27: 611768996
+      Sprite Sheet 2_305: -84746623
+      Sprite Sheet 2_165: 1202441453
+      Sprite Sheet 2_225: -442754327
+      Sprite Sheet 2_267: 1476971463
+      Sprite Sheet 2_78: 1902252466
+      Sprite Sheet 2_211: 198212857
+      Sprite Sheet 2_220: -525594071
+      Sprite Sheet 2_122: -2112747960
+      Sprite Sheet 2_177: 1792190605
+      Sprite Sheet 2_187: -520629938
+      Sprite Sheet 2_304: 1504177783
+      Sprite Sheet 2_53: -286712036
+      Sprite Sheet 2_288: -958675716
+      Sprite Sheet 2_299: 1493632681
+      Sprite Sheet 2_107: -1716086631
+      Sprite Sheet 2_212: 1648425757
+      Player 2_5: 1521588832
+      Sprite Sheet 2_57: 461440183
+      Sprite Sheet 2_338: 268754665
+      Sprite Sheet 2_41: -1307338591
+      Sprite Sheet 2_321: -835755510
+      Sprite Sheet 2_157: 1709671836
+      Sprite Sheet 2_9: -1180327985
+      Sprite Sheet 2_56: 1412553655
+      Sprite Sheet 2_150: -731562187
+      Sprite Sheet 2_181: 1192013707
+      Boss 1_5: -328525243
+      Sprite Sheet 2_239: -537100045
+      Sprite Sheet 2_151: -1829434282
+      Sprite Sheet 2_263: -2004424417
+      Player 2_4: 533010210
+      Skeleton_6: -1943318718
+      Sprite Sheet 2_271: 752481929
+      Sprite Sheet 2_129: 48512756
+      Sprite Sheet 2_247: 1153970076
+      Sprite Sheet 2_140: 1133106981
+      Sprite Sheet 2_183: -986132156
+      Sprite Sheet 2_168: 1937255135
+      Sprite Sheet 2_265: 1366621819
+      Sprite Sheet 2_215: 275940520
+      Sprite Sheet 2_137: -1383768082
+      Player 2_3: -1160472723
+      Sprite Sheet 2_21: 739969671
+      Sprite Sheet 2_126: 948790627
+      Sprite Sheet 2_111: -667994977
+      Sprite Sheet 2_346: -1225260858
+      Sprite Sheet 2_37: 855672857
+      Sprite Sheet 2_130: 1424436437
+      Sprite Sheet 2_235: 1002226842
+      Sprite Sheet 2_339: -441464125
+      Sprite Sheet 2_142: 1129940033
+      Sprite Sheet 2_323: -2432607
+      Sprite Sheet 2_243: -1693567225
+      Sprite Sheet 2_75: -29023259
+      Sprite Sheet 2_38: -1565774565
+      Sprite Sheet 2_39: -1014307242
+      Sprite Sheet 2_266: 1934437088
+      Sprite Sheet 2_115: -267891748
+      Skeleton_7: 699376403
+      Win: -484067285
+      Sprite Sheet 2_36: -1547631846
+      Sprite Sheet 2_189: -1566657428
+      Sprite Sheet 2_232: -929737646
+      Sprite Sheet 2_326: 1069054683
+      Sprite Sheet 2_248: -1964986247
+      Sprite Sheet 2_331: 1575918193
+      Goblin 1_3: 835389370
+      Sprite Sheet 2_112: 764325996
+      Sprite Sheet 2_71: 92739990
+      Sprite Sheet 2_121: -1200122441
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
